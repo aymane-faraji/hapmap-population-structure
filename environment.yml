@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+
+name: hapmap
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - plink2

@@ -1,0 +1,19 @@
+
+# Raw genetic datasets and metadata
+data/
+
+# Generated PLINK2 files and intermediate results
+results/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editor-specific files
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
